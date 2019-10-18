@@ -1,0 +1,7 @@
+agm-map {
+    height: 80%;    
+}
+mat-toolbar{
+    justify-content: space-between;
+    display: flex;
+}
